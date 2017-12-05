@@ -1,0 +1,24 @@
+{
+  "name": "angular-reset",
+  "version": "0.0.1",
+  "description": "Angular HTTP client to consume RESTful services. Built with TypeScript.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gozeon/angular-reset.git"
+  },
+  "keywords": [
+    "angular",
+    "http",
+    "restful"
+  ],
+  "author": "goze <goze.qiu@gmail.com> (https://github.com/gozeon)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gozeon/angular-reset/issues"
+  },
+  "homepage": "https://github.com/gozeon/angular-reset#readme"
+}
