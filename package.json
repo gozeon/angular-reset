@@ -1,6 +1,6 @@
 {
   "name": "angular5-rest",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Angular HTTP client to consume RESTful services. Built with TypeScript.",
   "main": "index.js",
   "types": "index.d.ts",
