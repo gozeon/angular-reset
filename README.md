@@ -1,6 +1,11 @@
 # angular-reset
 
-# Reference
+# Install
+```bash
+npm install angular5-rest
+```
+
+# Reference && usage
 [Paldom/angular2-rest](https://github.com/Paldom/angular2-rest)
 
 # License
