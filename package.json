@@ -2,7 +2,8 @@
   "name": "angular5-rest",
   "version": "0.0.2",
   "description": "Angular HTTP client to consume RESTful services. Built with TypeScript.",
-  "main": "index.ts",
+  "main": "index.js",
+  "types": "index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
